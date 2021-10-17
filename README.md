@@ -38,10 +38,9 @@
 <img alt="Wireshark" src="https://img.shields.io/badge/wireshark-004DB0?style=for-the-badge&logo=wireshark&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <br/>
-## Stats 📈
-<img src="https://komarev.com/ghpvc/?username=fyzrdc&color=yellow&style=flat-square"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyzrdc&hide_border=true&theme=dracula"/> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=fyzrdc&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
+## Stats 📈
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashhRDC&hide_border=true&theme=dracula"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=flashhRDC&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
 
 <br/>  
