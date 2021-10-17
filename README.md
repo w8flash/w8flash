@@ -51,7 +51,7 @@
 </a> 
 <br/>  
 
-## Want to help me with my projects ? ? (Thanks !) 💜
+## Want to help me with my projects ? (Thanks !) 💜
 <div>
             <a href="https://paypal.me/lucastaurin" target="_blank" style="display: inline-block;">
                 <img
