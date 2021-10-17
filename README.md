@@ -13,14 +13,14 @@
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" style="margin-bottom: 5px;"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" style="margin-bottom: 5px;"/>
+</a> 
 <a href="#" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
@@ -28,9 +28,9 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%0DB000?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 5px;"/>
 </a> 
 <a href="#" target="_blank">
-<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" style="margin-bottom: 5px;"/>
-</a> 
-<a href="#" target="_blank">
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 5px;"/>
 </a> 
+<a href="#" target="_blank">
+<img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
 <br/>
