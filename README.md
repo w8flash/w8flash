@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B0EF7&lines=Hello+!+Im+flashh.+%E2%9A%A1;Visit+my+website+%3A+flashh.contact.+%F0%9F%8C%9F;And+enjoy+it+!+%E2%9C%A8)](https://git.io/typing-svg)
 <br/> 
-## Tools & Programming languages I use 💻
+## Tools & Programming languages 🔧
 <a href="#" target="_blank">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;"/>
 </a>
@@ -39,13 +39,7 @@
 </a>
 <br/>
 
-## Stats 📈
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashhRDC&hide_border=true&theme=dracula"/> 
-<img src="https://github-readme-stats.vercel.app/api?username=flashhRDC&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
-
-<br/>  
-
-## Where to find me ? 🤔
+## My social networks 🌍
 <a href="https://twitter.com/flxsh_h" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -56,3 +50,12 @@
 <img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
 <br/>  
+
+## Want to help me with my projects ? ? (Thanks !) 💜
+<div>
+            <a href="https://paypal.me/lucastaurin" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+            </a>
+            </div>
+<br />
