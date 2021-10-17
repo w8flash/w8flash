@@ -44,3 +44,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=flashhRDC&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
 
 <br/>  
+
+## Where to find me ? 🤔
+<a href="https://twitter.com/flxsh_h" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UCd1dXBA4p7ikzeBaVrPfnXg" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+<a href="https://discord.gg/rdc" target="_blank">
+<img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a> 
+<br/>  
