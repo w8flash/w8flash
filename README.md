@@ -7,6 +7,9 @@
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
+<img alt="Debian" src="https://img.shields.io/badge/debian-900C3F?style=for-the-badge&logo=debian&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
+<a href="#" target="_blank">
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
@@ -33,4 +36,8 @@
 <a href="#" target="_blank">
 <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
+<a href="#" target="_blank">
+<img alt="Wireshark" src="https://img.shields.io/badge/wireshark-004DB0?style=for-the-badge&logo=wireshark&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
 <br/>
+</a>
