@@ -23,9 +23,6 @@
 <img alt="PHP" src="https://img.shields.io/badge/php-7374ab?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" style="margin-bottom: 5px;"/>
-</a> 
-<a href="#" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
