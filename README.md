@@ -42,6 +42,11 @@
 </a>
 <br/>
 
+## Stats 📈
+![Main stats](https://github-readme-stats.vercel.app/api?username=flashhrdc&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flashhrdc&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
 ## My social networks 🌍
 <a href="https://twitter.com/flxsh_h" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
