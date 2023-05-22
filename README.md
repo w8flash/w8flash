@@ -42,18 +42,15 @@ My name is arthur but you can call me flashh, I was born in 2002, currently in B
 <br/>
 
 ## Stats 📈
-![Main stats](https://github-readme-stats.vercel.app/api?username=flashhrdc&show_icons=true&theme=radical)
+![Main stats](https://github-readme-stats.vercel.app/api?username=w8flash&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flashhrdc&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w8flash&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ## My social networks 🌍
-<a href="https://twitter.com/flxsh_h" target="_blank">
+<a href="https://twitter.com/oldflashh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCd1dXBA4p7ikzeBaVrPfnXg" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
 <a href="https://discord.gg/rdc" target="_blank">
 <img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
