@@ -58,12 +58,3 @@ My name is arthur but you can call me flashh, I was born in 2002, currently in B
 <img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
 <br/>  
-
-## Want to help me with my projects ? (Thanks !) 💜
-<div>
-            <a href="https://paypal.me/lucastaurin" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-            </a>
-            </div>
-<br />
