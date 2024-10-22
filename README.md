@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B0EF7&lines=Hello+!+Im+flashh.+%E2%9A%A1;Visit+my+website+%3A+flashh.contact.+%F0%9F%8C%9F;And+enjoy+it+!+%E2%9C%A8)](https://git.io/typing-svg)
-## About Me ✨
-My name is arthur but you can call me flashh, I was born in 2002, currently in License of cybersecurity to be able to work in the network administration as well as the cybersecurity. I also try to learn development as I can
-<br/> 
 ## Tools & Programming languages 🔧
 <a href="#" target="_blank">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;"/>
