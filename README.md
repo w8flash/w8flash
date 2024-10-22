@@ -10,3 +10,6 @@
 <a href="#" target="_blank"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-6323a4?style=flat-square&logo=adobephotoshop&logoColor=white" style="margin-bottom: 5px; width:150px;"/></a>
 <a href="#" target="_blank"><img alt="Sublime" src="https://img.shields.io/badge/Sublime-6323a4?style=flat-square&logo=sublimetext&logoColor=white" style="margin-bottom: 5px; width:129px;"/></a>
 <br/>
+
+## 👀
+<img src="https://komarev.com/ghpvc/?username=w8dead&color=23A55A&style=flat-square"/>
