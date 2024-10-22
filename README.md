@@ -1,5 +1,5 @@
 ## 🔗
-<a href="https://x.com/w8flash" target="_blank"><img src="https://img.shields.io/badge/w8flash-pink?style=social&logo=instagram" style="margin-bottom: 5px; width:109px;" /></a>
+<a href="https://x.com/w8flash" target="_blank"><img src="https://img.shields.io/badge/w8flash-pink?style=social&logo=X" style="margin-bottom: 5px; width:109px;" /></a>
 <a href="https://instagram.com/w8flash" target="_blank"><img src="https://img.shields.io/badge/w8flash-pink?style=social&logo=instagram" style="margin-bottom: 5px; width:109px;" /></a>
 <a href="https://discord.gg/w8" target="_blank"><img src="https://img.shields.io/badge/w8-blue?style=social&logo=discord" style="margin-bottom: 5px; width:74px;" /></a>  
 
