@@ -12,4 +12,4 @@
 <br/>
 
 ## 👀
-<img src="https://komarev.com/ghpvc/?username=w8dead&color=23A55A&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=w8flash&color=6323a4&style=flat-square"/>
