@@ -11,5 +11,14 @@
 <a href="#" target="_blank"><img alt="Sublime" src="https://img.shields.io/badge/Sublime-6323a4?style=flat-square&logo=sublimetext&logoColor=white" style="margin-bottom: 5px; width:129px;"/></a>
 <br/>
 
+## 🎨
+
+| Hex                                                                |
+| ------------------------------------------------------------------ |
+| ![#3c096c](https://via.placeholder.com/10/275A37?text=+) #3c096c |
+| ![#5a189a](https://via.placeholder.com/10/3C8952?text=+) #5a189a |
+| ![#7b2cbf](https://via.placeholder.com/10/459E5E?text=+) #7b2cbf |
+| ![#9d4edd](https://via.placeholder.com/10/4DAF69?text=+) #9d4edd |
+
 ## 👀
 <img src="https://komarev.com/ghpvc/?username=w8flash&color=6323a4&style=flat-square"/>
